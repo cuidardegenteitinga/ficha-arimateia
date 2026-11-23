@@ -1,0 +1,13 @@
+{
+  "name": "Ficha Arimatéia",
+  "short_name": "Fichas",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#F3F6F8",
+  "theme_color": "#1F4A63",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
